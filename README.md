@@ -71,4 +71,4 @@ Then open `http://127.0.0.1:5000` in your browser. Fill out the form and the mas
 5. **Email** (web app only) - Zips the file and sends it via SMTP
 
 ## Submitted By
-Sarthak Gaba
+Naman Bansal
